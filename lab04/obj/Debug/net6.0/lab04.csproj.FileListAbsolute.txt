@@ -1,0 +1,15 @@
+/home/narek/Documents/C#/lab04/lab04/bin/Debug/net6.0/lab04
+/home/narek/Documents/C#/lab04/lab04/bin/Debug/net6.0/lab04.deps.json
+/home/narek/Documents/C#/lab04/lab04/bin/Debug/net6.0/lab04.runtimeconfig.json
+/home/narek/Documents/C#/lab04/lab04/bin/Debug/net6.0/lab04.dll
+/home/narek/Documents/C#/lab04/lab04/bin/Debug/net6.0/lab04.pdb
+/home/narek/Documents/C#/lab04/lab04/obj/Debug/net6.0/lab04.csproj.AssemblyReference.cache
+/home/narek/Documents/C#/lab04/lab04/obj/Debug/net6.0/lab04.GeneratedMSBuildEditorConfig.editorconfig
+/home/narek/Documents/C#/lab04/lab04/obj/Debug/net6.0/lab04.AssemblyInfoInputs.cache
+/home/narek/Documents/C#/lab04/lab04/obj/Debug/net6.0/lab04.AssemblyInfo.cs
+/home/narek/Documents/C#/lab04/lab04/obj/Debug/net6.0/lab04.csproj.CoreCompileInputs.cache
+/home/narek/Documents/C#/lab04/lab04/obj/Debug/net6.0/lab04.dll
+/home/narek/Documents/C#/lab04/lab04/obj/Debug/net6.0/refint/lab04.dll
+/home/narek/Documents/C#/lab04/lab04/obj/Debug/net6.0/lab04.pdb
+/home/narek/Documents/C#/lab04/lab04/obj/Debug/net6.0/lab04.genruntimeconfig.cache
+/home/narek/Documents/C#/lab04/lab04/obj/Debug/net6.0/ref/lab04.dll
